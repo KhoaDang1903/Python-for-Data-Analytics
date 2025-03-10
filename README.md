@@ -1,0 +1,1 @@
+### Fundamental knowledge of Python for data analytics, covering basic syntax, working with Jupyter Notebook, data manipulation with Pandas & NumPy, visualization with Matplotlib & Seaborn, handling CSV/Excel files, data cleaning.
